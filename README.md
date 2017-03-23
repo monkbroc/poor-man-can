@@ -8,3 +8,6 @@ transceiver.
 tranmit data over a long distance. Use it only for learning about CAN.**
 Seriously, buy a CAN transceiver breakout board.
 
+### [Full description on Hackster](https://www.hackster.io/monkbroc/poor-man-s-can-bus-602636)
+
+
